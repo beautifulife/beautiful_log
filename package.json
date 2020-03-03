@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-bee",
+  "name": "beautifulife_log",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "Frontend Engineer Beautifulife Blog",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "beautifulife[SeungUk Kim]<davidkim1018@gmail.com>",
   "bugs": {
-    "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
+    "url": "https://github.com/beautifulife/beautifulife_log/issues"
   },
   "dependencies": {
     "gatsby": "^2.2.8",
@@ -61,7 +61,7 @@
     "recursive-readdir": "^2.2.2",
     "signale": "^1.3.0"
   },
-  "homepage": "https://github.com/JaeYeopHan/gatsby-starter-bee#readme",
+  "homepage": "https://github.com/beautifulife/beautifulife_log#readme",
   "keywords": [
     "gatsby"
   ],
@@ -69,7 +69,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
+    "url": "git+https://github.com/beautifulife/beautifulife_log.git"
   },
   "scripts": {
     "post": "node ./cli/create-new-post.js",

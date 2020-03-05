@@ -5,8 +5,9 @@ import './index.scss'
 export const GitHubIcon = () => {
   return (
     <a
-      href="https://github.com/JaeYeopHan/felog"
+      href="https://github.com/beautifulife"
       className="github"
+      target="_blank"
       aria-label="GitHub"
     >
       <svg

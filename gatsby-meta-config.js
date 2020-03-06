@@ -1,9 +1,9 @@
 module.exports = {
-  title: `Beautifulife Blog`,
+  title: `beautifulife_log`,
   description: `Blog posted about beautifulife`,
   author: `beautifulife`,
-  introduction: `I am a Frontend Engineer, I live beautifulife.`,
-  siteUrl: `https://beautifulife.github.io`, // Your blog site url
+  introduction: `Frontend Engineer, Javascript Enthusiast`,
+  siteUrl: `https://beautifulife.now.sh`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `beautifulife`, // Your GitHub account

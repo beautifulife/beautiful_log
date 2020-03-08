@@ -3,9 +3,10 @@ title: 'Welcome Bee starter'
 date: 2019-2-6 16:21:13
 category: 'development'
 draft: false
+spoiler: 'Welcome, Gatsby! This starter is full-package for your new blog!'
 ---
 
-![](./images/hello.png)
+![](./hello.png)
 
 Welcome, Gatsby! This starter is full-package for your new blog!
 
@@ -55,7 +56,7 @@ class Foo extends React.Component {
 
 _code_
 
-![](./images/code_example.png)
+![](./code_example.png)
 
 ## 3. Support Markdown (h2)
 

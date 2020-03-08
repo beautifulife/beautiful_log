@@ -80,6 +80,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-i18n`,
+      options: {
+        langKeyDefault: `en`,
+        useLangKeyLayout: false,
+        pagesPaths: [`${__dirname}/content/blog/development`, `${__dirname}/content/__about`]
+      },
+    },
+    {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,

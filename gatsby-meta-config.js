@@ -26,5 +26,8 @@ module.exports = {
   share: {
     facebookAppId: '232800551185851', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'UA-159561078-1', // Add your google analytics tranking ID
+  ga: 'UA-159561078-1', // Add your google analytics tranking ID,
+  dictums: [
+    `"Before software can be reusable, it first has to be usable." – Ralph Johnson`
+  ]
 }

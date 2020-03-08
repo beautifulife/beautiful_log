@@ -1,10 +1,12 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from 'react';
+import { Link } from 'gatsby';
 
-import './index.scss'
+import { validateRoot } from '../../utils/router';
+
+import './index.scss';
 
 export const Header = ({ title, location, rootPath }) => {
-  const isRoot = location.pathname === rootPath
+  const isRoot = validateRoot(location, rootPath);
   return (
     isRoot && (
       <h1 className="home-header">
@@ -13,5 +15,5 @@ export const Header = ({ title, location, rootPath }) => {
         </Link>
       </h1>
     )
-  )
-}
+  );
+};

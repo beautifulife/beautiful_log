@@ -7,7 +7,7 @@ export const FacebookIcon = ({ onClick }) => (
     className="resp-sharing-button__link"
     href="#"
     target="_blank"
-    rel="noopener"
+    rel="noopener noreferrer"
     aria-label="Share on Facebook"
     onClick={onClick}
   >

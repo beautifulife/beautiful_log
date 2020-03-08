@@ -8,6 +8,7 @@ export const GitHubIcon = () => {
       href="https://github.com/beautifulife"
       className="github"
       target="_blank"
+      rel="noopener noreferrer"
       aria-label="GitHub"
     >
       <svg

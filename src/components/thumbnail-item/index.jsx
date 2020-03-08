@@ -8,7 +8,7 @@ export const ThumbnailItem = ({ node }) => (
   <Link className={`thumbnail ${TARGET_CLASS}`} to={node.fields.slug}>
     <div key={node.fields.slug}>
       <h3>{node.frontmatter.title || node.fields.slug}</h3>
-      <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+      {node.frontmatter.spoiler ? <p>{node.frontmatter.spoiler}</p> : <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />}
     </div>
   </Link>
 )

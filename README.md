@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/gatsby-starter-bee.png" width="360px" />
+  <img src="./assets/logo.png" width="300px" />
 
 </div>
 

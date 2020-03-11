@@ -11,7 +11,7 @@ module.exports = {
     facebook: `david.su.kim`, // Your Facebook account
     linkedin: `승욱-김-ab16b9114`, // Your LinkedIn account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/forFavicon.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.

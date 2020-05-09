@@ -8,28 +8,18 @@
 
 - I write logs for beautifulife
 
-## Template
+## 티스토리 블로그 사용 계획으로 변경
 
-I Use This Template, beacause...
+- 블로그를 하려는 이유
 
-- 💄 Code highlight with Fira Code font
-- 🧙 CLI Tool
-- 😄 Emoji (emojione)
-- 🗣 Social share feature (Twitter, Facebook)
-- 💬 Comment feature (disqus, utterances)
-- ☕ 'Buy me a coffee' service
-- 🤖 GA
-- ⭐ Enhance UX
-- ⚙ Configurable
+  - 생각을 정리하기 위함
+  - 정리한 생각을 공유하기 위함
+  - 삶의 기록을 남기기 위함
+  - 유용한 내용을 공유하기 위함
 
-> [About this Template](https://www.gatsbyjs.org/starters/JaeYeopHan/gatsby-starter-bee/)
+- 블로그 핵심
 
-## LICENSE
+  - 글, 기록
 
-[MIT](./LICENSE)
-
-<div align="center">
-
-<sub><sup>Project by <a href="https://github.com/beautifulife">@beautifulife thanks to Jbee</a></sup></sub><small>✌</small>
-
-</div>
+- 결론
+  - 블로그를 만드는데 시간을 쏟기 보단, 글을 쓰고 기록을 남기는데 시간을 소비

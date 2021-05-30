@@ -1,36 +1,38 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "beautifulife_log",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "beautifulife blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "beautifulife <davidkim1018@gmail.com>",
   "dependencies": {
-    "gatsby": "^3.0.1",
-    "gatsby-plugin-gatsby-cloud": "^2.0.0",
-    "gatsby-plugin-image": "^1.0.0",
-    "gatsby-plugin-manifest": "^3.0.0",
-    "gatsby-plugin-offline": "^4.0.0",
-    "gatsby-plugin-react-helmet": "^4.0.0",
-    "gatsby-plugin-robots-txt": "^1.5.5",
-    "gatsby-plugin-sharp": "^3.0.0",
-    "gatsby-plugin-sitemap": "^3.0.0",
+    "gatsby": "^3.4.2",
+    "gatsby-plugin-gatsby-cloud": "^2.4.1",
+    "gatsby-plugin-image": "^1.4.1",
+    "gatsby-plugin-manifest": "^3.4.0",
+    "gatsby-plugin-offline": "^4.4.0",
+    "gatsby-plugin-react-helmet": "^4.4.0",
+    "gatsby-plugin-robots-txt": "^1.5.6",
+    "gatsby-plugin-sharp": "^3.4.2",
+    "gatsby-plugin-sitemap": "^4.0.0",
     "gatsby-plugin-typegen": "^2.2.4",
-    "gatsby-plugin-typescript": "^3.0.0",
-    "gatsby-source-filesystem": "^3.0.0",
-    "gatsby-transformer-sharp": "^3.0.0",
+    "gatsby-plugin-typescript": "^3.4.0",
+    "gatsby-source-filesystem": "^3.4.0",
+    "gatsby-transformer-sharp": "^3.4.0",
     "prop-types": "^15.7.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "@types/react-helmet": "^6.1.0",
+    "@types/react-helmet": "^6.1.1",
     "gatsby-plugin-ts-config": "^1.1.5",
     "prettier": "2.2.1",
-    "typescript": "^4.2.2"
+    "typescript": "^4.2.4"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "beautifulife_log",
+    "blog"
   ],
   "license": "0BSD",
   "scripts": {
@@ -44,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/beautifulife/beautifulife_log"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/beautifulife/beautifulife_log/issues"
   }
 }
